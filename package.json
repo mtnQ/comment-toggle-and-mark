@@ -1,10 +1,9 @@
 {
   "name": "comment-toggle-and-mark",
   "main": "./lib/comment-toggle-and-mark",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Alternative comment toggling that provides functionality similar to Geany.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": [
       "comment-toggle-and-mark:toggle",
@@ -16,6 +15,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
