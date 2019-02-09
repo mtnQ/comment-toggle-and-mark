@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle Marked Comments",
+        "command": "comment-toggle-and-mark:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Marked Comments",
+          "submenu": [
+            {
+              "label": "Toggle comments",
+              "command": "comment-toggle-and-mark:toggle"
+            },
+            {
+              "label": "Delete marked comments",
+              "command": "comment-toggle-and-mark:delete"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

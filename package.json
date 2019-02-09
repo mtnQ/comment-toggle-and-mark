@@ -1,0 +1,21 @@
+{
+  "name": "comment-toggle-and-mark",
+  "main": "./lib/comment-toggle-and-mark",
+  "version": "0.1.0",
+  "description": "Alternative comment toggling that provides functionality similar to Geany.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "comment-toggle-and-mark:toggle",
+      "comment-toggle-and-mark:delete"
+    ]
+  },
+  "repository": "https://github.com/mtnQ/comment-toggle-and-mark",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

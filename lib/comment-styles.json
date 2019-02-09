@@ -1,0 +1,33 @@
+{
+    "scope": {
+        "source.asm.x86_64":      { "pre": ";",    "post": "" },
+        "source.c":               { "pre": "//",   "post": "" },
+        "source.clojure":         { "pre": ";",    "post": "" },
+        "source.coffee":          { "pre": "#",    "post": "" },
+        "source.cpp":             { "pre": "//",   "post": "" },
+        "source.cs":              { "pre": "//",   "post": "" },
+        "source.css":             { "pre": "/*",   "post": "*/" },
+        "source.css.less":        { "pre": "//",   "post": "" },
+        "source.go":              { "pre": "//",   "post": "" },
+        "source.html.basic":      { "pre": "<!--", "post": "-->" },
+        "source.html.mustache":   { "pre": "{{!",  "post": "}}" },
+        "source.html.php":        { "pre": "//",   "post": "" },
+        "source.objc":            { "pre": "//",   "post": "" },
+        "source.perl":            { "pre": "#",    "post": "" },
+        "source.python":          { "pre": "#",    "post": "" },
+        "source.ruby.gemfile":    { "pre": "#",    "post": "" },
+        "source.java":            { "pre": "//",   "post": "" },
+        "source.javascript":      { "pre": "//",   "post": "" },
+        "source.js":              { "pre": "//",   "post": "" },
+        "source.makefile":        { "pre": "#",    "post": "" },
+        "source.sass":            { "pre": "//",   "post": "" },
+        "source.shell":           { "pre": "#",    "post": "" },
+        "source.sql":             { "pre": "--",   "post": "" },
+        "source.toml":            { "pre": "#",    "post": "" },
+        "source.ts":              { "pre": "//",   "post": "" },
+        "source.verilog":         { "pre": "//",   "post": "" },
+        "source.vhdl":            { "pre": "--",   "post": "" },
+        "source.yaml":            { "pre": "#",    "post": "" },
+        "text.xml":               { "pre": "<!--", "post": "-->" }
+    }
+}
