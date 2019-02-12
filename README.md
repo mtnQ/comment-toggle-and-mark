@@ -12,4 +12,4 @@ In addition, there is also the ability to delete all marked comments in a docume
 
 ## Supported Languages
 
-The comment style used is dependent on the current grammar of the editor (supplied in the ```language-``` packages).  Supported languages include C, C++, Java, JavaScript, Python, among others.
+The comment style used is dependent on the current grammar of the editor (supplied in the ```language-``` packages).  Supported languages include C, C++, Java, JavaScript, and Python, among others.
