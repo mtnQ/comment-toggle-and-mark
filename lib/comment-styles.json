@@ -9,9 +9,6 @@
         "source.css":             { "pre": "/*",   "post": "*/" },
         "source.css.less":        { "pre": "//",   "post": "" },
         "source.go":              { "pre": "//",   "post": "" },
-        "source.html.basic":      { "pre": "<!--", "post": "-->" },
-        "source.html.mustache":   { "pre": "{{!",  "post": "}}" },
-        "source.html.php":        { "pre": "//",   "post": "" },
         "source.objc":            { "pre": "//",   "post": "" },
         "source.perl":            { "pre": "#",    "post": "" },
         "source.python":          { "pre": "#",    "post": "" },
@@ -28,6 +25,9 @@
         "source.verilog":         { "pre": "//",   "post": "" },
         "source.vhdl":            { "pre": "--",   "post": "" },
         "source.yaml":            { "pre": "#",    "post": "" },
+        "text.html.basic":        { "pre": "<!--", "post": "-->" },
+        "text.html.mustache":     { "pre": "{{!",  "post": "}}" },
+        "text.html.php":          { "pre": "//",   "post": "" },
         "text.xml":               { "pre": "<!--", "post": "-->" }
     }
 }
